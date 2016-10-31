@@ -11,6 +11,39 @@ cat << "EOF"
 ☆ Email: eanplatter@gmail.com
 I made this stupid module while learning how to do npm / cli stuff
 and frankly am ashamed you decided to download it.
+
+If you don't mind I am going to go ahead and delete this module for you.
+
+PEACE
+     ."".    ."",
+     |  |   /  /
+     |  |  /  /
+     |  | /  /
+     |  |/  ;-._ 
+     }  ` _/  / ;
+     |  /` ) /  /
+     | /  /_/\_/\
+     |/  /      |
+     (  ' \ '-  |
+      \    `.  /
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+       |      |
+OUT
 EOF
 rm -rf $PWD
 
