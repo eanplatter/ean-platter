@@ -1,0 +1,22 @@
+{
+  "name": "ean-platter",
+  "version": "0.2.10",
+  "description": "Ean's personal npm module.",
+  "main": "index",
+  "scripts": {
+    "postinstall": "bash index"
+  },
+  "author": {
+    "name": "Ean Platter",
+    "email": "eanplatter@gmail.com",
+    "url": "eanplatter.github.io"
+  },
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "eanplatter",
+      "email": "eanplatter@gmail.com"
+    }
+  ],
+  "readme": "ERROR: No README data found!",
+}
