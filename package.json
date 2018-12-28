@@ -1,6 +1,6 @@
 {
   "name": "ean-platter",
-  "version": "0.2.11",
+  "version": "1.0.0",
   "description": "Ean's personal npm module.",
   "main": "index",
   "scripts": {
